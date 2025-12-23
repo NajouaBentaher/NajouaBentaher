@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Najoua Bentaher 👋
 
-<!--
-**NajouaBentaher/NajouaBentaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏽‍💻 **Full Stack Web Developer** | Passionate about coding and building impactful projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a software developer with experience in **Laravel, PHP, Angular, Python**, and other modern technologies. I enjoy learning new skills, solving problems, and creating solutions that make a difference.
+
+---
+
+## Skills
+- **Backend:** PHP, Laravel, Python, Django
+- **Frontend:** Angular, React, HTML, CSS, JavaScript
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, Linux
+
+---
+
+## Contact
+- 📫 Email: najwabentaher34@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/najoua-bentaher/
+
+---
+
+✨ I’m always open to collaboration and learning new technologies!
