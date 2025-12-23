@@ -2,6 +2,8 @@
 
 👩🏽‍💻 **Full Stack Web Developer** | Passionate about coding and building impactful projects
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NajouaBentaher&label=Profile%20views&color=0e75b6&style=flat" alt="NajouaBentaher" /> </p>
+
 ---
 
 ## About Me
