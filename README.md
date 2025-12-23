@@ -1,4 +1,4 @@
-# Hi, I'm Najoua Bentaher 👋
+<h1 align="center">Hi 👋, I'm Hafsa El Akhdar</h1>
 
 👩🏽‍💻 **Full Stack Web Developer** | Passionate about coding and building impactful projects
 
