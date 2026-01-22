@@ -15,13 +15,14 @@ I am a software developer with experience in **Laravel, PHP, Angular, Python**, 
 - **Backend:** PHP, Laravel, Python, Django
 - **Frontend:** Angular, React, HTML, CSS, JavaScript
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, Linux
+- **Tools:** Git, Docker, Linux, Odoo
 
 ---
 
 ## Contact
-- 📫 Email: najwabentaher34@gmail.com
+- 📫 Email: najouabentaher.tech@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/najoua-bentaher/
+- 🌐 Portfolio: https://portfolio-najoua-tech.vercel.app/
 
 ---
 
